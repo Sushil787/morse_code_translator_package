@@ -1,0 +1,21 @@
+name: morse_code_translator
+description: A library that converts Morse code to decoded string and normal string to encoded Morse code.
+version: 0.0.1
+homepage: https://github.com/Sushil787/morse_code_translator_package
+
+environment:
+  sdk: ">=2.16.2 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+
+flutter:
+
+  
